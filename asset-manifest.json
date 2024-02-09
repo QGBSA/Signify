@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/QGBSA/Signify/static/css/main.d547ca29.css",
-    "main.js": "/QGBSA/Signify/static/js/main.7f1e1b9a.js",
-    "static/js/787.d4aba7ab.chunk.js": "/QGBSA/Signify/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/QGBSA/Signify/static/media/logo.938f1d28dac1b438b7ec7ce60f97419f.svg",
-    "static/media/translation.svg": "/QGBSA/Signify/static/media/translation.024fc9b41b7f75d73a5bc24f4a09d9d0.svg",
-    "static/media/settings.svg": "/QGBSA/Signify/static/media/settings.c8a924e11743be5a3dc77d741ed57dcc.svg",
-    "static/media/feedback.svg": "/QGBSA/Signify/static/media/feedback.f5de680595d8518f131d51adf8daad31.svg",
-    "index.html": "/QGBSA/Signify/index.html",
-    "main.d547ca29.css.map": "/QGBSA/Signify/static/css/main.d547ca29.css.map",
-    "main.7f1e1b9a.js.map": "/QGBSA/Signify/static/js/main.7f1e1b9a.js.map",
-    "787.d4aba7ab.chunk.js.map": "/QGBSA/Signify/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/Signify/static/css/main.d547ca29.css",
+    "main.js": "/Signify/static/js/main.111da173.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Signify/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/Signify/static/media/logo.938f1d28dac1b438b7ec7ce60f97419f.svg",
+    "static/media/translation.svg": "/Signify/static/media/translation.024fc9b41b7f75d73a5bc24f4a09d9d0.svg",
+    "static/media/settings.svg": "/Signify/static/media/settings.c8a924e11743be5a3dc77d741ed57dcc.svg",
+    "static/media/feedback.svg": "/Signify/static/media/feedback.f5de680595d8518f131d51adf8daad31.svg",
+    "index.html": "/Signify/index.html",
+    "main.d547ca29.css.map": "/Signify/static/css/main.d547ca29.css.map",
+    "main.111da173.js.map": "/Signify/static/js/main.111da173.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Signify/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d547ca29.css",
-    "static/js/main.7f1e1b9a.js"
+    "static/js/main.111da173.js"
   ]
 }
